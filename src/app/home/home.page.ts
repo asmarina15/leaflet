@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import * as L from 'leaflet';
+import * as L from 'leaflet'; //import library
 
 @Component({
   selector: 'app-home',
